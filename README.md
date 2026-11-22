@@ -60,5 +60,5 @@ Colonnes : rang national et régional, ville, code INSEE, département, région,
 
 ## Licence et reprise
 
-Données sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) (Etalab), comme les données Météo-France dont elles sont tirées.
-Reprise libre avec mention de la source « étude Clim Posée » et lien vers la page de l'étude. : https://clim-posee.fr/etude/villes-les-plus-chaudes/
+Les données tirées de Météo-France et de l'INSEE sont publiées sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) (Etalab). Les volumes de recherche Google ne sont pas des données ouvertes : seuls des volumes arrondis par ville sont publiés.
+Reprise libre avec mention de la source « étude Clim Posée » et lien vers https://clim-posee.fr/etude/villes-les-plus-chaudes/
